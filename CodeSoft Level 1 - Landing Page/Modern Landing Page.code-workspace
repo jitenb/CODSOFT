@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Modern Landing Page",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Modern Landing Page"
+	}
+}
